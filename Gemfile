@@ -44,6 +44,7 @@ gem "bootsnap", require: false
 
 # Use Sass to process CSS
 gem "sassc-rails"
+gem "font-awesome-sass", "~> 6.1"
 
 gem "simple_form"
 
